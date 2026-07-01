@@ -1,0 +1,5 @@
+site_name: 我的开源实践博客
+theme: material
+nav:
+  - 首页: index.md
+  - 第一篇博客: first-blog.md
